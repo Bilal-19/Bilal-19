@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
-- 👨‍💻 All of my projects are available at [(https://bilalportfliowebsite.netlify.app/)]
+- 👨‍💻 All of my projects are available at Portfolio Website [(https://bilalportfliowebsite.netlify.app/)]
 
 - 💬 Ask me about **HTML, CSS, JavaScript, BootStrap 5 & React JS**
 
