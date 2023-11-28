@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **C#**
 
-- 👨‍💻 All of my projects are available at [https://bilalportfliowebsite.netlify.app/](https://bilalportfliowebsite.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://bilalportfoliowebsite.netlify.app/](https://bilalportfoliowebsite.netlify.app/)
 
 - 📝 I regularly write articles on [https://medium.com/@bilalmuhammadyousuf543](https://medium.com/@bilalmuhammadyousuf543)
 
