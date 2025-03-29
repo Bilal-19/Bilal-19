@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Tailwind CSS**
 
-- 👨‍💻 All of my projects are available at [https://bilal-19.github.io/portfolio/](https://bilal-19.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [https://bilal-19.github.io/](https://bilal-19.github.io/)
 
 - 💬 Ask me about **HTML, CSS, Bootstrap 5, JavaSript, React JS, PHP, Laravel and MySQL.**
 
